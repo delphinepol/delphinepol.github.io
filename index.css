@@ -1,0 +1,96 @@
+body {
+    background-color: #F5FBEF;
+    color:black;
+    font-family:'Trebuchet MS',sans-serif;
+    line-height:120%; padding-left:7px
+}
+
+a {
+    transition: all 200ms ease-in 0s;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+.name {
+  background-color: #A9F5BC;
+  color: black;
+  margin: 0px;
+  padding: 3px;
+  line-height: 25px;
+}
+
+.name h1 {
+    font-weight: bold;
+    color: black;
+}
+
+.name h2 {
+    color: black;
+    font-weight: lighter;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+}
+
+h1 {
+    color:#3EBF00;
+}
+
+h2 {
+    color:#00a58e;
+    margin-top: 40px;
+}
+
+li {
+    margin: 6px;
+}
+
+.intro {
+    color: black;
+    margin-top: 40px;
+}
+
+.publi {
+    color: black;
+}
+
+.publi h3 {
+    color:#00a58e;
+}
+
+.prices {
+    color:black;
+}
+
+footer {
+    background-color: #A9F5BC;
+    margin: 0px;
+    padding: 3px;
+}
+
+.flag img{
+    padding:2px; 
+    border:0;
+    width: 25px;
+    margin-left: 10px;
+    display: inline-block;
+}
+
+.flag a {
+    color: blue;
+    transition: all 200ms ease-in 100ms;
+}
+
+.flag :hover {
+    font-size: large;
+    font-weight: bold;
+}
+
+.flag {
+    min-width: 190px;
+    display: inline-block;
+}
